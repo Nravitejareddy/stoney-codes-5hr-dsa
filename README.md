@@ -119,3 +119,26 @@
                  ▼                   ▼
               DFS / BFS          Search / Insert
 ```
+
+---
+
+## 🛠️ Language
+
+🐍 **Python**
+
+---
+
+## 🎯 Goal
+
+```text
+Learn → Understand → Implement → Solve → Repeat
+
+                    5+ HOURS
+                       ↓
+                 50+ PROBLEMS
+                       ↓
+              MULTIPLE DSA PATTERNS
+                       ↓
+             STRONGER PROBLEM SOLVING
+```
+
