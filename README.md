@@ -1,4 +1,4 @@
-# 🧠 Stoney Codes — 5hr DSA
+# ⚡ Stoney Codes — 5hr DSA
 
 > **70 LeetCode Problems • 5+ Hours • DSA Fundamentals**
 >
@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ What You'll Find
+## 🚀 What You'll Find
 
 📦 Arrays  
 🔗 Linked Lists  
