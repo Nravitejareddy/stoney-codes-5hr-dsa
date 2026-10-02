@@ -142,12 +142,14 @@ Learn → Understand → Implement → Solve → Repeat
 
 ## ⭐ Progress
 
+```text
 Arrays             ████████████████████  24
 Linked Lists       ██████                 7
 Stacks & Queues    ███████                7
 Binary Trees / BST ████████████          12
                                       ─────
                                        50
+```
 
 ---
 
