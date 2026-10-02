@@ -148,7 +148,7 @@ Linked Lists       ██████                 7
 Stacks & Queues    ███████                7
 Binary Trees / BST ████████████          12
                                       ─────
-                                       50
+                                         50
 ```
 
 ---
