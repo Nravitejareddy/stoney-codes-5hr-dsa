@@ -142,3 +142,31 @@ Learn → Understand → Implement → Solve → Repeat
              STRONGER PROBLEM SOLVING
 ```
 
+---
+
+## ⭐ Progress
+
+```text
+Arrays             ████████████████████  24
+Linked Lists       ██████                7
+Stacks & Queues    ███████               7
+Binary Trees / BST ████████████          12
+                                      ─────
+                                       50
+```
+---
+
+🚀 Built for learning, practice, and getting comfortable with DSA one problem at a time.
+
+---
+
+## 📌 Notes
+
+- Solutions are written in **Python**.
+- Problems are based on common **LeetCode-style DSA patterns**.
+- Each solution is kept in a separate file for easy reference.
+- More problems and data structures can be added as the series grows.
+
+---
+
+**Learn it. Understand it. Solve it. Repeat.**
