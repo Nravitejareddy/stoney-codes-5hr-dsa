@@ -1,6 +1,6 @@
 # 🧠 Stoney Codes — 5hr DSA
 
-> **70 LeetCode Problems • 5+ Hours • Every Major Data Structure**
+> **70 LeetCode Problems • 5+ Hours • DSA Fundamentals**
 >
 > A fast-paced DSA tutorial covering problems, patterns, and solutions — from Arrays to Binary Search Trees.
 
@@ -8,17 +8,17 @@
 
 ## ⚡ What You'll Find
 
-```text
-📦 Arrays
-🔗 Linked Lists
-🥞 Stacks
-🚶 Queues
-🌳 Binary Trees
-🔍 Binary Search Trees
-🧩 Recursion & Backtracking
+📦 Arrays  
+🔗 Linked Lists  
+🥞 Stacks  
+🚶 Queues  
+🌳 Binary Trees  
+🔍 Binary Search Trees  
+🧩 Recursion & Backtracking  
 💡 Dynamic Programming
-```
+
 ---
+
 ## 📚 Problems
 
 ### 🟦 Arrays
@@ -95,7 +95,6 @@
 
 ## 🗺️ DSA Roadmap
 
-```text
                          🧠 DSA
                            │
           ┌────────────────┼────────────────┐
@@ -118,7 +117,6 @@
                  │                   │
                  ▼                   ▼
               DFS / BFS          Search / Insert
-```
 
 ---
 
@@ -130,7 +128,6 @@
 
 ## 🎯 Goal
 
-```text
 Learn → Understand → Implement → Solve → Repeat
 
                     5+ HOURS
@@ -140,20 +137,18 @@ Learn → Understand → Implement → Solve → Repeat
               MULTIPLE DSA PATTERNS
                        ↓
              STRONGER PROBLEM SOLVING
-```
 
 ---
 
 ## ⭐ Progress
 
-```text
 Arrays             ████████████████████  24
-Linked Lists       ██████                7
-Stacks & Queues    ███████               7
+Linked Lists       ██████                 7
+Stacks & Queues    ███████                7
 Binary Trees / BST ████████████          12
                                       ─────
                                        50
-```
+
 ---
 
 🚀 Built for learning, practice, and getting comfortable with DSA one problem at a time.
